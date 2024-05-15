@@ -1,11 +1,11 @@
-ReaderExcel-Unity
+# **ReaderExcel-Unity**
 
 
 Este repositorio contiene una solución de Unity diseñada para leer y visualizar datos desde archivos Excel. 
 El código está estructurado para facilitar la integración con proyectos de Unity, permitiendo la lectura eficiente de datos estructurados en hojas de cálculo para su uso en proyectos.
 
 
-Características:
+## **Características:**
 
 Lectura de Excel: Capacidad para leer archivos .xls y .xlsx usando la biblioteca NPOI.
 Editor de Unity: Integración completa con el editor de Unity, incluyendo una ventana para facilitar la carga de archivos Excel.

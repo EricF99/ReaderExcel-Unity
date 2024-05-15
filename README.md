@@ -5,7 +5,8 @@ Este repositorio contiene una solución de Unity diseñada para leer y visualiza
 El código está estructurado para facilitar la integración con proyectos de Unity, permitiendo la lectura eficiente de datos estructurados en hojas de cálculo para su uso en proyectos.
 
 
-Características
+Características:
+
 Lectura de Excel: Capacidad para leer archivos .xls y .xlsx usando la biblioteca NPOI.
 Editor de Unity: Integración completa con el editor de Unity, incluyendo una ventana para facilitar la carga de archivos Excel.
 Gestión de Datos: Almacena y organiza los datos leídos en estructuras de datos dentro de Unity, facilitando su uso en el proyecto deseado.
